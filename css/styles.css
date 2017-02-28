@@ -1,0 +1,38 @@
+/*Color List:
+- blue = 2f6ad0;
+- light green = 7ebb23
+- green = 3a9602
+- dark green = 2b6704
+- orange = D45500
+- pink = c83737 */
+
+
+
+body{
+    background-color: #2f6ad0;
+}
+
+container{
+    max-width:90%;
+    background-color: #fff;
+    color: #2b6704;
+    text-align: center;
+}
+
+main{}
+content{}
+hyperlinks{}
+navigation{}
+footer{}
+
+
+images{
+    
+}
+font{}
+
+h1, h2, h3, h4, h5, h6{}
+
+ul{}
+li{}
+
